@@ -1,4 +1,3 @@
-//Selina Narain March 24 2020
 import java.util.Scanner;
 
 public class TelevisionDemo
