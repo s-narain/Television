@@ -1,5 +1,3 @@
-//Selina Narain March 24 2020
-
 public class Television
 {
     private String manufacturer;
